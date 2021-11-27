@@ -95,7 +95,7 @@
         <p class=" w3l-register-p">Already a member?<a href="index.php" class="register"> Login</a></p>
     </div>
     <footer>
-        <p class="copyright-agileinfo"> &copy; 2021 Web-Tech Project | Designed by Soumili-Sayani</p>
+        <p class="copyright-agileinfo"> &copy; 2021 MS Engage Project | Designed by Sayani</p>
     </footer>
 
 </body>

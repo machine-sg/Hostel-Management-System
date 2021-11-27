@@ -6,12 +6,11 @@
     
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-   
+    
     <link href="web/css/style.css" rel="stylesheet" type="text/css" />
     
     <link href="web/css/fontawesome-all.css" rel="stylesheet" />
     
-
 </head>
 
 
@@ -35,16 +34,15 @@
                     <input type="password" class="form-control" name="pwd" placeholder="Password" required="required" />
                 </div>
             </div>
-            
+           
             <button type="submit" name="login-submit">Login</button>
         </form>
           <p class=" w3l-register-p">Login as<a href="login-hostel_manager.php" class="register"> Hostel-Manager/Admin</a></p>
-          <!-- <p class=" w3l-register-p">SignUp as<a href="hm_signup.php" class="register"> Hostel-Manager/Admin</a></p> -->
+         
           <p class=" w3l-register-p">Don't have an account?<a href="signup.php" class="register"> Sign up</a></p>
-          <p class=" w3l-register-p"><a href="forget_password.php" class="register"> Forget Password ?</a></p>
     </div>
     <footer>
-        <p class="copyright-agileinfo"> &copy; 2021 Web-Tech Project | Designed by Soumili-Sayani </p>
+        <p class="copyright-agileinfo"> &copy; 2021 MS Enagae Project | Designed by Sayani </p>
     </footer>
 
 </body>

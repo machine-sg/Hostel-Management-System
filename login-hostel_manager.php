@@ -3,10 +3,9 @@
 
 <head>
     <title>HMS</title>
-    
+   
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    
     
     <link href="web/css/style.css" rel="stylesheet" type="text/css" />
     
@@ -35,14 +34,14 @@
                     <input type="password" class="form-control" name="pwd" placeholder="Password" required="required" />
                 </div>
             </div>
-            
+           
             <button type="submit" name="login-submit">Login</button>
         </form>
           <p class=" w3l-register-p">Login as<a href="index.php" class="register"> Student</a></p>
-     
+      
     </div>
     <footer>
-        <p class="copyright-agileinfo"> &copy; 2021 Web-Tech Project | Design by Sayani-Soumili</p>
+        <p class="copyright-agileinfo"> &copy; 2021 MS Enagae Project | Design by Sayani</p>
     </footer>
 
 </body>
