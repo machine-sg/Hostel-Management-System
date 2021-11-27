@@ -38,3 +38,40 @@ This is a Online Hostel Management System using which students will be able to a
      
   2. Admin will to able to check all the students applied for the hostel. He/she can message the hostel manager and will be able to add a new hostel.
      ![Screenshot (995)](https://user-images.githubusercontent.com/60744373/143680598-15dacd53-c548-4032-bd11-22a28f65166b.png)
+     
+     
+  ### Manager Side
+  1. Manager allocates rooms to the students who have applied. This allocation happens depending on the FCFS till then the rooms are available. But student with distance less than 90 km and income greater than 2.5 lacs does not get a room.
+  
+    - Before allocation
+      ![i1](https://user-images.githubusercontent.com/60744373/143680850-c06f4c70-accf-4136-9fb3-3258a5f50178.png)
+
+    - After allocation
+      - Only 3 rooms were empty that's why 3 of the students got rooms depeding on their application time by following FCFS. Others will remain in the same list
+      ![Screenshot (997)](https://user-images.githubusercontent.com/60744373/143680927-d75ca132-4b5a-46cd-867a-0536d5810867.png)
+
+  2. He will also be able to check the allocated rooms, empty rooms. He can add a new room and also able to check the list of students those who wants to vacate the room
+     ![i2](https://user-images.githubusercontent.com/60744373/143681007-1b42f993-ebbd-4b06-b451-550644b449f5.png)
+     
+  3. He can message the students and check the received messages as well.
+
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+## How to Run
+   1. Download the zip file
+   2. Put the root directory inside "xampp/htdocs" folder
+   3. Open [phpMyAdmin](http://localhost/phpmyadmin)
+   4. Create a databse with name hostel_management_system
+   5. Import hostel_management_system.sql
+   6. Finally open the url [http://localhost/Hostel-Management-System](http://localhost/Hostel-Management-System/)
+   
