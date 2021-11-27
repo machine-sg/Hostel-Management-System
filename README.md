@@ -1,5 +1,5 @@
 # Hostel-Management-System
-This is a Online Hostel Management System using which students will be able to apply for the hostels and the hostel manager will allocate them to the hostel following FCFS. If a student is having distance from college is greater than 90 km and income is less than 2.5 lacs, then only the student is eligible to get a hostel room. Also the admin will be able to appoint hostel manager to each hostel.
+This is an Online Hostel Management System using which students will be able to apply for the hostels and the hostel manager will allocate them to the hostel rooms by following First Come First Serve (FCFS) . If a student is having distance from college  greater than 90 km and income  less than 2.5 lacs, then only the student will get a hostel room. Also the admin will be able to appoint hostel manager to each hostel.
 
 ## Features
 
