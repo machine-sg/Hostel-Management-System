@@ -182,7 +182,7 @@
 						<div class="col-lg-3 col-sm-6 banner_bottom_right_grid">
 							<br>
 							<br>
-							<div class="view view2 view-tenth">
+							<div class="view view-tenth" style="background: #ff4c4c;">
 								<div class="agile_text_box">
 									<i class="fas fa-bed" aria-hidden="true"></i>
 									<h3> Apply for <?php  echo "$hostel_name";  ?>-Hostel</h3>
@@ -201,7 +201,7 @@
 						<div class="col-lg-3 col-sm-6 banner_bottom_right_grid">
 						<br>
 						<br>
-						<div class="view view4 view-tenth" style="background: #DE3163;">
+						<div class="view view-tenth" style="background: #DE3163;">
 							<div class="agile_text_box">
 								<i class="fas fa-bed" aria-hidden="true"></i>
 								<h3> Apply for <?php  echo "$hostel_name";  ?>-Hostel</h3>
@@ -220,7 +220,7 @@
 					<div class="col-lg-3 col-sm-6 banner_bottom_right_grid">
 						<br>
 						<br>
-						<div class="view view3 view-tenth">
+						<div class="view view-tenth" style="background: #009688">
 							<div class="agile_text_box">
 								<i class="fas fa-bed" aria-hidden="true"></i>
 								<h3> Apply for <?php  echo "$hostel_name";  ?>-Hostel</h3>
@@ -239,7 +239,7 @@
 							<div class="col-lg-3 col-sm-6 banner_bottom_right_grid">
 							<br>
 							<br>
-							<div class="view view5 view-tenth" style="background: #F08080;">
+							<div class="view view-tenth" style="background: #F08080;">
 								<div class="agile_text_box">
 									<i class="fas fa-bed" aria-hidden="true"></i>
 									<h3> Apply for <?php  echo "$hostel_name";  ?>-Hostel</h3>
@@ -258,7 +258,7 @@
 							<div class="col-lg-3 col-sm-6 banner_bottom_right_grid">
 							<br>
 							<br>
-							<div class="view view1 view-tenth">
+							<div class="view view-tenth" style="background: #2196F3;">
 								<div class="agile_text_box">
 									<i class="fas fa-bed" aria-hidden="true"></i>
 									<h3> Apply for <?php  echo "$hostel_name";  ?>-Hostel</h3>
