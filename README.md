@@ -42,12 +42,11 @@ This is a Online Hostel Management System using which students will be able to a
      
   ### Manager Side
   1. Manager allocates rooms to the students who have applied. This allocation happens depending on the FCFS till then the rooms are available. But student with distance less than 90 km and income greater than 2.5 lacs does not get a room.
-  
-    - Before allocation
+     - Before allocation
     
      ![i1](https://user-images.githubusercontent.com/60744373/143681830-2ae0e3fd-da00-4a03-b3d6-ba06051ae067.png)
 
-    - After allocation
+     - After allocation
       - Only 3 rooms were empty that's why 3 of the students got rooms depeding on their application time by following FCFS. Others will remain in the same list
       
        ![Screenshot (997)](https://user-images.githubusercontent.com/60744373/143681838-e7884bdb-cb6f-43fe-879a-967dd07f0a4e.png)
