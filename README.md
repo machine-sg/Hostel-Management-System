@@ -7,9 +7,7 @@ This is a Online Hostel Management System using which students will be able to a
   1. Login Page and Signup Page
      - Login Page for Student and Hostel-Manager / Admin
      
-     ![Screenshot (979)](https://user-images.githubusercontent.com/60744373/143680045-c8b32c82-a5ac-4f10-a08a-d8ad807c6d93.png)
-     
-     ![Screenshot (980)](https://user-images.githubusercontent.com/60744373/143680071-f78bce18-e03d-4822-b862-70576fa41ec1.png)
+     ![Screenshot (979)](https://user-images.githubusercontent.com/60744373/143680045-c8b32c82-a5ac-4f10-a08a-d8ad807c6d93.png) ![Screenshot (980)](https://user-images.githubusercontent.com/60744373/143680071-f78bce18-e03d-4822-b862-70576fa41ec1.png)
      
      - Signup Page for Student
    
@@ -32,3 +30,11 @@ This is a Online Hostel Management System using which students will be able to a
      ![Screenshot (991)](https://user-images.githubusercontent.com/60744373/143680271-260b4a88-8c89-45fe-a9a9-2173763fab98.png)
      
      ![Screenshot (993)](https://user-images.githubusercontent.com/60744373/143680305-899cba1e-58cb-49e8-af22-2075040b7d64.png)
+     
+     
+  ### Admin Side
+  1. Admin can appoint or remove a hostel manager
+     ![screencapture-localhost-Hostel-Management-System-admin-create-hm-php-2021-11-27-17_31_17](https://user-images.githubusercontent.com/60744373/143680498-c8c8a023-01c8-4f19-bcde-54287db3e49d.png)
+     
+  2. Admin will to able to check all the students applied for the hostel. He/she can message the hostel manager and will be able to add a new hostel.
+     ![Screenshot (995)](https://user-images.githubusercontent.com/60744373/143680598-15dacd53-c548-4032-bd11-22a28f65166b.png)
