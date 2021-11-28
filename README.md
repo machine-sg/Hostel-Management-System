@@ -17,7 +17,7 @@ This is an Online Hostel Management System using which students will be able to 
   
      ![screencapture-localhost-Hostel-Management-System-services-php-2021-11-27-16_23_22](https://user-images.githubusercontent.com/60744373/143679602-e8c113ee-bd98-4b13-afbb-ee530f9e1d0a.png)
      
-     ![Screenshot (982)](https://user-images.githubusercontent.com/60744373/143679678-10bb6108-e830-487a-8c1d-9d106e83f3bc.png)
+     ![Screenshot (982)](https://user-images.githubusercontent.com/60744373/143753803-20c54ef0-12cb-447e-af7e-b2a96b6d1e8d.png)
      
   3. Student will be able to message the hostel manager and also to check the received messages
   
